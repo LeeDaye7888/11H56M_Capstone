@@ -14,10 +14,10 @@ import Community from "./routes/Community";
 import Category from "./routes/Category";
 import MyNav from "./MyNav";
 import MainNav from"./MainNav";
-import Main1 from "./routes/Main1"
-import Main2 from "./routes/Main2"
-import Main3 from "./routes/Main3"
-import Main4 from "./routes/Main4"
+import Main1 from "./routes/MainPages/Main1"
+import Main2 from "./routes/MainPages/Main2"
+import Main3 from "./routes/MainPages/Main3"
+import Main4 from "./routes/MainPages/Main4"
 import { TbMessageCircle } from "react-icons/tb";
 import { AiOutlineMessage } from "react-icons/ai";
 import { AiOutlineClose } from "react-icons/ai";

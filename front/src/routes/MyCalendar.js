@@ -177,7 +177,7 @@ function MyCalendar() {
   </div>
   <div style={{ position: 'relative', marginLeft: '400px' }}>
     <img
-      src="/eat2.png"
+      src="/CategoryImg/eat2.png"
       style={{
         width: '350px',
         height: '370px',
