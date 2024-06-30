@@ -114,11 +114,3 @@
 
 <br>
 
-<br>
-
-## 구조도 <br>
-![구조도](https://github.com/rainnn99/11H56M_Capstone/assets/102869025/225b3602-5ba2-4bc1-97f6-ec1acc37b6d9)
-
-<br>
-
-
